@@ -1,0 +1,33 @@
+[
+  {
+    "id": "0",
+    "key": "Alface",
+    "value": 0.40,
+    "qty": 0
+  },
+  {
+    "id": "1",
+    "key": "Bacon",
+    "value": 2.00,
+    "qty":  0
+  },
+  {
+    "id": "2",
+    "key": "Hambúrguer de carne",
+    "value": 3.00,
+    "qty":  0
+  },
+  {
+    "id": "3",
+    "key": "Ovo",
+    "value": 0.80,
+    "qty":  0
+  },
+  {
+    "id": "4",
+    "key": "Queijo",
+    "value": 1.50,
+    "qty":  0
+  }
+]
+
